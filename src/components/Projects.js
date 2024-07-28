@@ -17,7 +17,7 @@ const Projects = () => {
                     <a href="https://shurochi.com" target='_blank'>
                         <img src="shuro.png" alt="shurochi.com" />
                     </a>
-                    <p>Page that hosts a Destiny 2 Wish Wall macro and explains how to set up and run it.<br></br>I provided user support for it while it received <strong>30,000 monthly users</strong>.<FaHtml5 /><IoLogoCss3 /><IoLogoJavascript /></p>
+                    <p>Page that explains the install and setup process of a Destiny 2 Wish Wall macro.<br></br><FaHtml5 /><IoLogoCss3 /><IoLogoJavascript /></p>
                 </div>
                 <div className='each-project'>
                     <a href="https://github.com/marshall-bobotis/project-slingair" target='_blank'>

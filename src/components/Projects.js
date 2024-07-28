@@ -23,7 +23,7 @@ const Projects = () => {
                     <a href="https://github.com/marshall-bobotis/project-slingair" target='_blank'>
                         <img src="slingair.png" alt="Project 2" />
                     </a>
-                    <p>Full Stack flight booking app with a functional backend via MongoDB <SiMongodb /> and React <FaReact /> frontend to render booked seats</p>
+                    <p>Full stack flight booking app with a functional backend via MongoDB <SiMongodb /> and React <FaReact /> frontend to render booked seats</p>
                 </div>
                 <div className='each-project'>
                     <a href="https://github.com/marshall-bobotis/project-js-nyan-cat" target='_blank'>

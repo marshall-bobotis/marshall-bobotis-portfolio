@@ -26,7 +26,7 @@ const Projects = () => {
                     <p>Full stack flight booking app with a functional MongoDB <SiMongodb /> backend and React <FaReact /> frontend.</p>
                 </div>
                 <div className='each-project'>
-                    <a href="https://github.com/marshall-bobotis/project-js-nyan-cat" target='_blank'>
+                    <a href="https://github.com/marshall-bobotis/project-nyan-cat-js" target='_blank'>
                         <img src="nyan-cat.jpg" alt="Nyan Cat Game" />
                     </a>
                     <p>Object Oriented Nyan Cat Game.<br></br><FaHtml5 /><IoLogoCss3 /><IoLogoJavascript /></p>
